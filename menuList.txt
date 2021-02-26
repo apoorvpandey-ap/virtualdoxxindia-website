@@ -1,0 +1,32 @@
+How_Active_RFID_Work.html
+Active_RFID_Readers.html
+Active_RFID_Portable_Scanner.html
+Active_RFID_Tag_and_ID_Card.html
+Mobile_Active_RFID_Platform.html
+Filing_Systems.html
+File_Folders.html
+Label_and_Electronic_Printing.html
+Content_Management_and_Process_Engineering.html
+Document_Organization_and_Indexing.html
+Electronic_Forms.html
+Government.html
+Military_Forces.html
+Police_Force.html
+School _Universities.html
+Judicial _Legal.html
+Manufacturing.html
+Health_Care.html
+Library.html
+What_We_Do.html
+Mission_and_Value.html
+Our_Team.html
+Contact.html
+
+VirtualDoxx Corporation develops enterprise-class software integrated with best-of-breed RFID technologies for item tracking and SharePoint templates for content management
+
+Government
+Military Forces
+Police Force
+School / Universities
+Health Care
+Judicial / Legal
